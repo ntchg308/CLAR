@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- HomePageWrapper -->
+    <integer name="firstPagePaddingLeft">1000</integer>
+    <integer name="firstPagePaddingTop">0</integer>
+    <fraction name="pageMarginRight">5%</fraction>
+    <fraction name="pageWidth" >20%</fraction>
+    <fraction name="pageHeigh" >20%</fraction>
+
+    <!--  HomePage  -->
+    <integer name="timeHoldEditPage">300</integer>
+    <integer name="distanceBeginDetectMove" >200</integer>
+    
+    <!--  HomePage Edit  -->
+    <integer name="distanceMoveToNextEditPage">200</integer>
+</resources>
